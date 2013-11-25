@@ -1,0 +1,19 @@
+//Write a program that will take 5 numbers from user and print the smaller number.
+import java.util.Scanner;
+public class lec8Hw3 {
+
+  public static void main (String[]args){
+      Scanner sc = new Scanner(System.in);
+    
+    System.out.println("Give your Number");
+    int a = sc.nextInt();
+    int b = sc.nextInt();
+    int c = sc.nextInt();
+    int d = sc.nextInt();
+    int e = sc.nextInt();
+    
+  
+  
+
+}
+}
